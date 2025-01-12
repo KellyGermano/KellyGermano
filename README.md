@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 ¡Hola! Soy Kelly Germano
 
-<!--
-**KellyGermano/KellyGermano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
 
-Here are some ideas to get you started:
+🌍 Vivo en Barcelona.
+📚 Estudiante de **Ingeniería de Software**.
+💼 Interesada en **machine learning**, **data science** y **desarrollo web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas
+- **Lenguajes:** Python, SQL, JavaScript
+- **Herramientas:** Visual Studio Code, AWS, MongoDB
+- **Intereses:** Machine Learning, Ciencia de Datos, Desarrollo Web
+
+## Proyectos Destacados
+- **[Encobox](https://encobox.es):** Sistema de gestión de repartos con predicción de tiempos de entrega.
+- **[Sistema de citas](#):** Automatización para psicólogos.
+
+---
+
+## Estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellygermano&layout=compact)
+![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellygermano&show_icons=true&theme=radical)
+
+## Contacto
+📩 **Email:** [me@kellygermano.com](mailto:me@kellygermano.com)
+🌐 **Web personal:** [kellygermano.com](https://kellygermano.com)
