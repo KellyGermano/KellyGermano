@@ -1,33 +1,52 @@
-# 👋 ¡Hola! Soy Kelly Germano
+# ¡Hola! Soy Kelly Germano
 
-## Sobre mí
-Bienvenida/o a mi espacio en GitHub. Aquí encontrarás mis proyectos en **Machine Learning**, **Data Science** y **Desarrollo Web**. ¡Espero que te guste!
-
-- 🌍 Vivo en Barcelona.
-- 📚 Estudiante de **Ingeniería de Software**.
-- 💼 Interesada en **machine learning**, **data science** y **desarrollo web**.
-- 🛠️ Fundadora de **Grão**.
-
-## Tecnologías y Herramientas
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow)
-
-- **Lenguajes:** Python, SQL, JavaScript  
-- **Herramientas:** Visual Studio Code, AWS, MongoDB  
-- **Intereses:** Machine Learning, Ciencia de Datos, Desarrollo Web  
+Bienvenida/o a mi espacio en GitHub, aquí encontrarás proyectos reales de **Machine Learning**, **Data Science** y **automatización web** desarrollados durante mi formación como ingeniera.
 
 ---
 
-## Proyectos Destacados
-- **[Encobox](https://encobox.es):** Sistema de gestión de repartos con predicción de tiempos de entrega.
-- **[Sistema de citas](#):** Automatización para psicólogos.
+## Sobre mí
+
+- Vivo en Barcelona.
+- Estudiante de ultimo año de **Ingeniería de Software**.
+- Actualmente trabajando en sistemas predictivos y automatización con Python, Flask y SQL.
+- Interesada en soluciones tecnológicas aplicadas al mundo real, gestión de datos y automatización inteligente.
+
+---
+
+## Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![css](https://img.shields.io/badge/css-F7DF1E?style=for-the-badge&logo=css&logoColor=black)
+
+---
+
+## Proyectos destacados
+
+- **[Encobox](https://github.com/KellyGermano/TCC_prevision-demandas)**  
+  Sistema de gestión y predicción de demanda para entregas de última milla. *(Privado temporalmente)*
+  
+- **[Encobox](https://encobox.es):**
+  Web y tienda online de gestión de repartos.
+
+- **Sistema de citas para psicóloga**  
+  Proyecto de automatización para recordatorios y agendamiento de sesiones y agenda eficiente. *(Privado temporalmente)*
+
+
+---
+
+## Contacto
+
+- **Email:** jobs@kellygermano.com  
+- **LinkedIn:** [linkedin.com/in/kellygermano](https://www.linkedin.com/in/kellygermano)
+- **Web:** [kellygermano.com](https://kellygermano.com)
 
 ---
 
 ## Estadísticas
+
 ### Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellygermano&layout=compact&hide_title=true)
 
@@ -36,12 +55,6 @@ Bienvenida/o a mi espacio en GitHub. Aquí encontrarás mis proyectos en **Machi
 
 ---
 
-## 🎨 Visualización creativa
+## Visualización creativa
 ![GIF de bienvenida](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
----
-
-## Contacto
-📩 **Email:** [me@kellygermano.com](mailto:me@kellygermano.com)  
-🌐 **Web personal:** [kellygermano.com](https://kellygermano.com)  
-💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/kellygermano)
