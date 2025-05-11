@@ -1,4 +1,4 @@
-# ¡Hola! Soy Kelly Germano
+**Soy Kelly Germano**
 
 Soy ingeniera de software en formación con experiencia práctica en análisis de datos, automatización y desarrollo de sistemas web. Actualmente me estoy especializando en **Data Science** y he trabajado en proyectos reales de previsión de demanda, automatización de agendas y mejoras técnicas en entornos web.
 
