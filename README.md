@@ -9,9 +9,9 @@
 ---
 
 Soy ingeniera de software especializada en ciencia de datos, con experiencia práctica en logística urbana.  
-Actualmente desarrollo soluciones en Encobox que permiten anticipar la demanda, automatizar reportes operativos y mejorar la toma de decisiones con base en datos reales.
+Actualmente desarrollo soluciones que permiten anticipar la demanda, automatizar reportes operativos y mejorar la toma de decisiones con base en datos reales.
 
-Mi enfoque es resolver problemas concretos: menos carga manual, más visibilidad, decisiones más rápidas.  
+Mi enfoque es resolver problemas concretos: menos carga manual, más visibilidad, decisiones más rápidas y orientadas a resultados.  
 Trabajo con Python, SQL y visualización de datos, integrando herramientas técnicas con el conocimiento del negocio.
 
 Este perfil reúne los proyectos clave que representan mi trayectoria y mis intereses:  
