@@ -1,4 +1,4 @@
-
+<img src="Banner%20github.png" alt="Kelly Germano - Analista de Datos" style="max-width:100%;">
 
 <div align="center">
   
@@ -8,11 +8,13 @@
 
 ---
 
-Soy ingeniera de software con enfoque en ciencia de datos y experiencia práctica en logística urbana.  
-Trabajo en proyectos que buscan transformar datos en decisiones operativas: predicción de demanda, automatización de reportes y análisis de desempeño.
+Soy ingeniera de software especializada en ciencia de datos, con experiencia práctica en logística urbana.  
+Actualmente desarrollo soluciones en Encobox que permiten anticipar la demanda, automatizar reportes operativos y mejorar la toma de decisiones con base en datos reales.
 
-Mi objetivo es claro: usar los datos para mejorar procesos reales de manera medible y constante.
+Mi enfoque es resolver problemas concretos: menos carga manual, más visibilidad, decisiones más rápidas.  
+Trabajo con Python, SQL y visualización de datos, integrando herramientas técnicas con el conocimiento del negocio.
 
----
+Este perfil reúne los proyectos clave que representan mi trayectoria y mis intereses:  
+análisis de datos aplicados, automatización útil y eficiencia logística con impacto real.
 
-Gracias por visitar mi perfil.
+Gracias por tu visita.
