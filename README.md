@@ -24,4 +24,7 @@ análisis de datos aplicados, automatización útil y eficiencia logística con 
 
 ### 📚 Latest Blog Posts
 
+
+
+
 Gracias por tu visita.
