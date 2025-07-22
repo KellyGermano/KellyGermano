@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**KellyGermano/KellyGermano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[kellygermano]/)](https://www.linkedin.com/in/kellygermano/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+Soy ingeniera de software con enfoque en ciencia de datos y experiencia práctica en logística urbana.  
+Trabajo en proyectos que buscan transformar datos en decisiones operativas: predicción de demanda, automatización de reportes y análisis de desempeño.
+
+Mi objetivo es claro: usar los datos para mejorar procesos reales de manera medible y constante.
+
+---
+
+Gracias por visitar mi perfil.
